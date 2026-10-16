@@ -29,6 +29,8 @@ Archivonchik turns any codebase into a structured, safe, and memorable workspace
 
 ---
 
+> **Need this adapted to your repository?** [Discuss scoped agent onboarding and custom integration](COMMERCIAL.md). The public MIT-licensed skill remains free to use under its existing terms.
+
 ## ✨ What is Archivonchik?
 
 **Archivonchik** is a Claude Skill that helps Claude Code understand a repository before touching the code.
